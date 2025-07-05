@@ -42,14 +42,7 @@ Driven Data Analyst with a Bachelor of Business Analytics from La Trobe Universi
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Joelmartinm&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Joel's GitHub stats">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joelmartinm&theme=highcontrast&hide_border=true">
-
-### GitHub Contribution Chart
-<a href="https://github.com/Joelmartinm">
-    <img src="https://ghchart.rshah.org/Joelmartinm" alt="Joelmartinm's GitHub Contribution Chart">
-</a>
 
 
 
