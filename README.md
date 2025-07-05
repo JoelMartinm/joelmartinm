@@ -7,7 +7,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <h2>👨‍💻 Data Analytics Projects</h2>
 
 - <b>Power BI & Python</b>
-  - [Customer Churn Dashboard Project](https://github.com/JoelMartinm/Movie_Genre_Analysis)  <b> - identifying key reasons for customer churn and actions to reduce churn.</b>
+  - [IMDB Movie Genre Analysis Project](https://github.com/JoelMartinm/Movie_Genre_Analysis)  <b> analyzing movie genres using IMDB data, highlighting profitability, popularity, and ratings.</b>
   - [Return to Work time - Worksafe Project](https://github.com/AlexVasilevski2/Projects/tree/main)  <b> - optimising return time after an injury, data science project.  </b>
   - [Sales Performance](https://github.com/AlexVasilevski2/DashboardsPortfolio/tree/main)  <b> - what makes an effective dashboard. </b>
  
