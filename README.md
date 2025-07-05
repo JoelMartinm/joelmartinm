@@ -1,7 +1,7 @@
 
 <h1>Hi, I'm Joel! <br/>  <a >Data Analyst</a> - <a >Power BI</a>, <a >SQL</a>, <a >Python</a>, <a >Excel</a></h1>
 
-As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
+Driven Data Analyst with a Bachelor of Business Analytics from La Trobe University. With ~1.5 years of experience extracting actionable insights to drive business decisions and operational efficiency across industries. I'm eager to contribute as a Data Analyst to leverage my Power BI, Data Visualisations, and Data Retrieval expertise. I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
 
 
 <h2>👨‍💻 Data Analytics Projects</h2>
