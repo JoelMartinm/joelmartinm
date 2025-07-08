@@ -7,10 +7,9 @@ Driven Data Analyst with a Bachelor of Business Analytics from La Trobe Universi
 <h2>👨‍💻 Data Analytics Projects</h2>
 
 - <b>Power BI & Python</b>
+  - [Matha Fresh Business Insights Dashboard](https://github.com/JoelMartinm/Matha-Fresh-Business-Insights-Dashboard)  <b> - Turned raw sales data into actionable insights with a dynamic Power BI dashboard.</b>
   - [IMDB Movie Genre Analysis Project](https://github.com/JoelMartinm/Movie_Genre_Analysis)  <b> analyzing movie genres using IMDB data, highlighting profitability, popularity, and ratings.</b>
   - [UFood Marketing Campaign Optimization Project](https://github.com/JoelMartinm/Marketing-Campaign-Optimization-Project)  <b> - Optimizing marketing campaigns to boost engagement and retention for UFood.  </b>
-  - [Sales Performance](https://github.com/AlexVasilevski2/DashboardsPortfolio/tree/main)  <b> - what makes an effective dashboard. </b>
- 
 
 
 <h2 align="center"> GitHub Statistics Dashboard </h2>
