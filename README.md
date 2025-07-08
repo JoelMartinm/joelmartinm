@@ -13,9 +13,6 @@ Driven Data Analyst with a Bachelor of Business Analytics from La Trobe Universi
  
 
 
-- <b>Excel</b>
-  - [Financial Modelling Projects](https://github.com/AlexVasilevski2/Excel-Dashboards/tree/main)  <b>(Financial modelling, forecasting, sensitvity and scenration anlaysis)</b>
-
 <h2 align="center"> GitHub Statistics Dashboard </h2>
 
 <div align="center">
