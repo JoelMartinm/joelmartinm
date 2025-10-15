@@ -11,6 +11,7 @@ Driven Data Analyst with a Bachelor of Business Analytics from La Trobe Universi
   - [IMDB Movie Genre Analysis Project](https://github.com/JoelMartinm/Movie_Genre_Analysis)  <b> analyzing movie genres using IMDB data, highlighting profitability, popularity, and ratings.</b>
   - [UFood Marketing Campaign Optimization Project](https://github.com/JoelMartinm/Marketing-Campaign-Optimization-Project)  <b> - Optimizing marketing campaigns to boost engagement and retention for UFood.  </b>
 
+- <b>Excel</b>
 
 <h2 align="center"> GitHub Statistics Dashboard </h2>
 
