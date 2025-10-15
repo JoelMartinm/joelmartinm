@@ -12,6 +12,7 @@ Driven Data Analyst with a Bachelor of Business Analytics from La Trobe Universi
   - [UFood Marketing Campaign Optimization Project](https://github.com/JoelMartinm/Marketing-Campaign-Optimization-Project)  <b> - Optimizing marketing campaigns to boost engagement and retention for UFood.  </b>
 
 - <b>Excel</b>
+ - [US Debt Tracker Project](https://github.com/JoelMartinm/US-Debt-Tracker)  <b> Cleaned, transformed, analyzed, and visualized historical and projected US debt </b>
 
 <h2 align="center"> GitHub Statistics Dashboard </h2>
 
