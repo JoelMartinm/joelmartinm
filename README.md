@@ -4,7 +4,7 @@
 Driven Data Analyst with a Bachelor of Business Analytics from La Trobe University. With ~1.5 years of experience extracting actionable insights to drive business decisions and operational efficiency across industries. I'm eager to contribute as a Data Analyst to leverage my Power BI, Data Visualisations, and Data Retrieval expertise. I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
 
 
-<h2>👨‍💻 Data Analytics Projects</h2>
+<h2>Data Analytics Projects</h2>
 
 - <b>Power BI & Python</b>
   - [Business Insights Dashboard](https://github.com/JoelMartinm/Matha-Fresh-Business-Insights-Dashboard)  <b> - Turned raw sales data into actionable insights with a dynamic Power BI dashboard.</b>
