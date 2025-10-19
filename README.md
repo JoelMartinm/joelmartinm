@@ -13,9 +13,9 @@ Driven Data Analyst with a Bachelor of Business Analytics from La Trobe Universi
 
 - <b>Excel</b>
   - [US Debt Tracker Project](https://github.com/JoelMartinm/US-Debt-Tracker)  <b> - Cleaned, transformed, analyzed, and visualized historical and projected US debt </b>
+  - [NYC Bus Transportation Analysis](https://github.com/JoelMartinm/Bus-Breakdown-and-Delays-NYC-Project/tree/main)  <b> - Analyzed, cleaned, and visualized NYC bus breakdown data to identify patterns and recommend targeted operational improvements </b>
 
-
-<h2 align="center"> GitHub Statistics Dashboard </h2>
+<h2 align="center"> GitHub Statistics Dashboard </h2
 
 <div align="center">
  
