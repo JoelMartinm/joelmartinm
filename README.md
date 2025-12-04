@@ -1,49 +1,69 @@
-<h1>Hi, I'm Joel! <br/>  <a>Data Analyst</a> - <a>Power BI</a>, <a>SQL</a>, <a>Python</a>, <a>Excel</a></h1>
+# Hi, I'm Joel Martin 
+### Data Analyst & Junior Data Engineer  
+**Power BI • SQL • Python • Snowflake • Excel**
 
-Driven Data Analyst with a Bachelor of Business Analytics from La Trobe University. With ~1.5 years of experience extracting actionable insights to drive business decisions and operational efficiency across industries. I'm eager to contribute as a Data Analyst to leverage my Power BI, Data Visualisations, and Data Retrieval expertise. I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
+I’m a Data Analyst with a Bachelor of Business Analytics from La Trobe University, focused on turning raw data into practical insights and building reliable data pipelines. I enjoy working across SQL, Python, Snowflake, and BI tools to help businesses make better, faster decisions.
 
-<h2>Data Analytics & Data Engineering Projects</h2>
+---
 
-- <b>Python | SQL | Data Engineering</b>  
-  - [Pre-Cut Forecast Automation](https://github.com/JoelMartinm/precut-forecast)  
-    <b>Automated an end-to-end forecasting pipeline that connects to a MySQL database, processes six months of transactional data, and generates daily product-level forecasts.</b>  
-    Designed and deployed a GitHub Actions CI/CD workflow (self-hosted runner) that executes every morning, producing CSV outputs and emailing results to operations.  
-    This project integrates SQL extraction, Python-based transformation, and SMTP automation, delivering data-driven forecasts that reduce wastage and optimize preparation planning.
+## Data Engineering & Analytics Projects
 
-- <b>Power BI & Python</b>  
-  - [Business Insights Dashboard](https://github.com/JoelMartinm/Matha-Fresh-Business-Insights-Dashboard)  
-    <b>Turned raw sales data into actionable insights through interactive dashboards built in Power BI, highlighting key financial and operational performance metrics.</b>
-  - [IMDB Movie Genre Analysis Project](https://github.com/JoelMartinm/Movie_Genre_Analysis)  
-    <b>Analyzed IMDB data to uncover profitability, popularity, and audience trends across genres using Python and SQL for data cleaning and visual storytelling.</b>
-  - [UFood Marketing Campaign Optimization Project](https://github.com/JoelMartinm/Marketing-Campaign-Optimization-Project)  
-    <b>Optimized campaign performance through segmentation and engagement analysis, identifying patterns that improved marketing efficiency and conversion rates.</b>
+### Snowflake & SQL Warehousing
 
-- <b>Excel</b>  
-  - [US Debt Tracker Project](https://github.com/JoelMartinm/US-Debt-Tracker)  
-    <b>Cleaned, transformed, and visualized historical and projected US debt data using advanced Excel functions and pivot charts for trend insights.</b>
-  - [NYC Bus Transportation Analysis](https://github.com/JoelMartinm/Bus-Breakdown-and-Delays-NYC-Project/tree/main)  
-    <b>Analyzed and visualized NYC bus breakdown and delay patterns to identify operational inefficiencies and recommend process improvements.</b>
+- **[MF Snowflake Project](https://github.com/JoelMartinm/MF-Snowflake-Project)**  
+  End-to-end Snowflake data warehouse using a Medallion architecture with curated fact/dimension tables for Matha Fresh sales analytics.
 
-<h2 align="center"> GitHub Statistics Dashboard </h2>
+- **[SQL Data Warehouse Project](https://github.com/JoelMartinm/sql-data-warehouse-project)**  
+  SQL-based data warehouse with ERD, star schema, and clean DIM/FACT models designed for reporting and BI dashboards.
+
+---
+
+### Forecasting & Automation
+
+- **[Pre-Cut Forecast Automation](https://github.com/JoelMartinm/precut-forecast)**  
+  Automated daily forecasting pipeline using MySQL, Python, and GitHub Actions to email product-level forecasts to operations.
+
+---
+
+### Business Intelligence & Analytics
+
+- **[Matha Fresh Business Insights Dashboard](https://github.com/JoelMartinm/Matha-Fresh-Business-Insights-Dashboard)**  
+  Power BI dashboards that surface key financial and operational KPIs for the Matha Fresh business.
+
+- **[IMDB Movie Genre Analysis](https://github.com/JoelMartinm/Movie_Genre_Analysis)**  
+  Python + SQL analysis of IMDB data to understand genre profitability, popularity, and audience trends.
+
+- **[UFood Marketing Campaign Optimization](https://github.com/JoelMartinm/Marketing-Campaign-Optimization-Project)**  
+  Campaign performance analysis using segmentation and engagement metrics to identify higher-converting customer groups.
+
+---
+
+### Excel Data Analysis
+
+- **[US Debt Tracker Project](https://github.com/JoelMartinm/US-Debt-Tracker)**  
+  Excel model tracking historical and projected US debt with charts and trend views.
+
+- **[NYC Bus Breakdown & Delays](https://github.com/JoelMartinm/Bus-Breakdown-and-Delays-NYC-Project/tree/main)**  
+  Exploratory analysis of NYC bus breakdown and delay patterns to highlight operational issues.
+
+---
+
+## GitHub Statistics & Activity
 
 <div align="center">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joelmartinm&custom_title=Joel's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joelmartinm&custom_title=Joel's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" />
+
+  <br/><br/>
 
   <table>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joelmartinm&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joelmartinm&theme=highcontrast&hide_border=true" alt="Repos Per Language">
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joelmartinm&theme=highcontrast&hide_border=true" alt="Most Commit Language">
-      </td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joelmartinm&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast"/></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joelmartinm&theme=highcontrast&hide_border=true"/></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joelmartinm&theme=highcontrast&hide_border=true"/></td>
     </tr>
   </table>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joelmartinm&theme=highcontrast&hide_border=true">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joelmartinm&theme=highcontrast&hide_border=true"/>
 </div>
+
+---
