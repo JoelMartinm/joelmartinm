@@ -1,6 +1,6 @@
 # Hi, I'm Joel Martin 
 ### Data Analyst & Junior Data Engineer  
-**Power BI • SQL • Python • Snowflake • Excel**
+**Power BI • SQL • Python • Azure • Snowflake • Excel**
 
 I’m a Data Analyst with a Bachelor of Business Analytics from La Trobe University, focused on turning raw data into practical insights and building reliable data pipelines. I enjoy working across SQL, Python, Snowflake, and BI tools to help businesses make better, faster decisions.
 
@@ -15,6 +15,10 @@ I’m a Data Analyst with a Bachelor of Business Analytics from La Trobe Univers
 
 - **[SQL Data Warehouse Project](https://github.com/JoelMartinm/sql-data-warehouse-project)**  
   SQL-based data warehouse with ERD, star schema, and clean DIM/FACT models designed for reporting and BI dashboards.
+  
+- **[Azure Data Factory Data Engineering Project](https://github.com/JoelMartinm/sql-data-warehouse-project](https://github.com/JoelMartinm/Azure-Data-Factory-data-engineering-project)**  
+  Full data engineering pipeline using Azure Data Factory, including ETL processes, data transformations, and integration with SQL data warehouse for reporting and analytics.
+
 
 ---
 
