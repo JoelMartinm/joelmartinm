@@ -16,7 +16,7 @@ I’m a Data Analyst with a Bachelor of Business Analytics from La Trobe Univers
 - **[SQL Data Warehouse Project](https://github.com/JoelMartinm/sql-data-warehouse-project)**  
   SQL-based data warehouse with ERD, star schema, and clean DIM/FACT models designed for reporting and BI dashboards.
   
-- **[Azure Data Factory Data Engineering Project](https://github.com/JoelMartinm/sql-data-warehouse-project](https://github.com/JoelMartinm/Azure-Data-Factory-data-engineering-project)**  
+- **[Azure Data Factory Data Engineering Project](https://github.com/JoelMartinm/Azure-Data-Factory-data-engineering-project)**  
   Full data engineering pipeline using Azure Data Factory, including ETL processes, data transformations, and integration with SQL data warehouse for reporting and analytics.
 
 
