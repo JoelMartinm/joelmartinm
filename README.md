@@ -8,8 +8,6 @@ I’m a Data Analyst with a Bachelor of Business Analytics from La Trobe Univers
 
 ## Data Engineering & Analytics Projects
 
-### Snowflake & SQL Warehousing
-
 - **[MF Snowflake Project](https://github.com/JoelMartinm/MF-Snowflake-Project)**  
   End-to-end Snowflake data warehouse using a Medallion architecture with curated fact/dimension tables for Matha Fresh sales analytics.
 
